@@ -1,0 +1,2 @@
+django-development-rules
+========================
